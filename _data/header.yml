@@ -1,6 +1,4 @@
 navigation:
-  - title: Home
-    url: /
   - title: Projekte
     url: /projects
   - title: Praktika
