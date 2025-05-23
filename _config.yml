@@ -29,7 +29,7 @@ url: "https://wago-enterprise-education.github.io" # the base hostname & protoco
 github_username: wago-enterprise-education # the GitHub username without @
 
 # Build settings
-theme: jekyll-theme-wago-education
+# theme: jekyll-theme-wago-education
 remote_theme: wago-enterprise-education/jekyll-theme-wago-education
 plugins:
   - jekyll-feed
